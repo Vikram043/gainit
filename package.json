@@ -1,0 +1,16 @@
+{
+  "name": "cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx eslint index.js --fix",
+    "server":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
